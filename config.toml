@@ -1,4 +1,4 @@
-base_url = "https://quantalabs.github.io"
+base_url = "https://mapaor4.github.io/math-blog-theme" # EDIT THIS
 compile_sass = true
 build_search_index = true
 generate_feeds = true
