@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://mapaor4.github.io/math-blog-theme/sitemap.xml
